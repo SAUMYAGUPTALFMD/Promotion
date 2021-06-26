@@ -1,0 +1,1 @@
+C:\\Users\\anand59\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe C:\Users\anand59\Desktop\Python Shresth\Mail Extractor\extractor.py
